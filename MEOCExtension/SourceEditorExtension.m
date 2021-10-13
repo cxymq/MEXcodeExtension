@@ -10,12 +10,10 @@
 
 @implementation SourceEditorExtension
 
-/*
 - (void)extensionDidFinishLaunching
 {
     // If your extension needs to do any work at launch, implement this optional method.
 }
-*/
 
 /*
 - (NSArray <NSDictionary <XCSourceEditorCommandDefinitionKey, id> *> *)commandDefinitions
